@@ -1,2 +1,1 @@
-# Trafalgar
-fully responsive website  was one of the projects i made in the training provided by the Egyptian government
+fully responsive website  was one of the projects i made in the training provided by the Egyptian government here are the link of the figma file https://www.figma.com/design/zITzIbmPpn4Fb15h0RrAVU/trafalgar-landing-page-for-figma?node-id=0-1&node-type=canvas
